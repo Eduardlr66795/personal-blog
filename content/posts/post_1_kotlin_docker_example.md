@@ -21,13 +21,23 @@ draft: false
 	<head>
 		<meta_ http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     </head>
-
+        <br>
+    <body>
+        <h2> OVERVIEW: </h2>
+        <div>   
+            The following project can be used to set-up a new kotlin-docker application using springboot
+            and liquibase.
+            <br>
+        <h2> INTENT & AUDIENCE: </h2>
+            <br>
+            The code and configuration can be used and shared, I made use of a Domain Driven Design and simple 
+            to outline how Kotlin, SpringBoot and Docker can be used to create production microservices.
+            <br> <br>
+            The source code and instructions on how to run the application can be found on the readme of the project. 
+            Please reach out to me via email if you encounter any issues. 
+           <br> <br>
+            LINK: <a href="https://github.com/Eduardlr66795/kotlin-docker-skeleton" style="background-color:powderblue"> kotlin-docker-skeleton </a>
         </div>
-        <p>The HTML <code> button </code> tag defines a clickable button.</p>
-        <p>The CSS <code>background-color</code> property defines the background color of an element.</p>
-	</body>
-
-    RUNNING THE APPLICATION
-        - Navigate to the src directory of the application.
-        - Run the following bash script: `buildFile.sh`
+    </body>
+    
 </html>
