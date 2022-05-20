@@ -15,7 +15,7 @@ layout = "hyde-master"
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <h1 style="text-align:center">About</h1>
+        <h1 style="text-align:center">ABOUT</h1>
     </head>
 	<body>
     <div class="middle">
