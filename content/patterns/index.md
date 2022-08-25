@@ -4,7 +4,6 @@ date = "2017-12-29T12:15:02-00:00"
 categories = ["test"]
 tags = ["test"]
 layout = "hyde-master"
-draft = false
 +++
 
 <!DOCTYPE HTML>
@@ -41,7 +40,7 @@ draft = false
                             &nbsp &nbsp &nbsp<i style="font-size: 15px;">Description: Object creation mechanisms, that 
                             will help structure and minimize code duplication.</i>
                             <br>
-                            &nbsp &nbsp &nbsp<i style="background-color:tomato;font-size: 15px;">Link: TODO.</i>
+                            &nbsp &nbsp &nbsp<i style="background-color:tomato;font-size: 15px;">Link: TODO</i>
                         <!-- ---------------------------------------- -->
                         <!-- STRUCTURAL DESIGN PATTERNS -->
                         <!-- ---------------------------------------- -->
@@ -49,7 +48,7 @@ draft = false
                             &nbsp &nbsp &nbsp<i style="font-size: 15px;">Description: Simplify the design of large object
                             structures by identifying relationships between them.</i>
                             <br>
-                            &nbsp &nbsp &nbsp<i style="background-color:tomato;font-size: 15px;">Link: TODO.</i>
+                            &nbsp &nbsp &nbsp<i style="background-color:tomato;font-size: 15px;">Link: TODO</i>
                         <!-- ---------------------------------------- -->
                         <!-- BEHAVIORAL DESIGN PATTERNS -->
                         <!-- ---------------------------------------- -->
@@ -57,7 +56,7 @@ draft = false
                             &nbsp &nbsp &nbsp<i style="font-size: 15px;">Description: Identify common communication 
                             patterns among objects.</i>
                             <br>
-                            &nbsp &nbsp &nbsp<i style="background-color:tomato;font-size: 15px;">Link: .</i>
+                            &nbsp &nbsp &nbsp<i style="background-color:tomato;font-size: 15px;">Link: TODO</i>
                     </ol>
                 </div>
         </div>
